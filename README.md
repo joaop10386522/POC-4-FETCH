@@ -1,6 +1,11 @@
 # POC-4-FETCH
 
 
+# João Pedro Gonzaga Nascimento Augusto e Felipe Berthoux
+
+
+
+
 ![poc imagem 1](https://github.com/user-attachments/assets/016c773a-a204-49b2-bcd8-5dba6305a244)
 ![poc imagem 2](https://github.com/user-attachments/assets/85844567-18ca-4de5-b298-f57f51775fc3)
 ![poc imagem 3](https://github.com/user-attachments/assets/bf133f43-84dd-445a-a528-396ee4a60a74)
